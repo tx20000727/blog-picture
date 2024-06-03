@@ -1,2 +1,2 @@
-# blog-picture
+# blo_picture
 图床
